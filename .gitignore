@@ -1,0 +1,8 @@
+# Ignore outputfiles
+*.npz
+*.npy
+*.h5
+*.txt
+__pycache__
+*pyc
+*test*

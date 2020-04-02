@@ -1,0 +1,9 @@
+This repository contains the networks used in the master's thesis "Deep Learning for New Physics Searches at the LHC" by Thorben Finke.
+
+CNN.py contains the CNN classifier setup used for section 5.1.
+LoLa.py contains the LoLa classifier setup used for section 5.2.
+DGCNN.py contains the DGCNN classifier setup used for section 5.3.
+autoencoder.py contains the AE and AAE setup used for section 6.
+
+utils.py contains some functions for loading jets and transforming the network input.
+classes.py contains the generation of networks and custom layers needed for the setups to work.
